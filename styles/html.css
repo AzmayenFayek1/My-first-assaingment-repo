@@ -1,0 +1,183 @@
+.banner{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width:100% ;height:100vh ; background-size: cover;left: 0px;top: 0px;
+}
+.banner-taitle{
+
+
+    text-align: right;
+    
+}
+.banner-taitle h2 {
+    padding: 216px 230px 24px 845px;
+    font-family: 'Work Sans';
+font-style: normal;
+
+
+
+}
+.banner-taitle p{ padding: 24px 230px 32px 876px;
+
+}
+
+.banner-button{
+    color:#005FAC;
+    background-color:#FFFFFF ;
+    width: 160px;
+font-size: 20px;
+height: 64px;
+border-radius: 5px;
+border-color: #005FAC;
+margin-right: 12%;}
+
+
+ 
+  .img-items{
+    margin-top: 20px;
+} 
+/* .fail{ 
+     max-width:1040 ;
+    margin: 0 auto;  
+    
+     font-family: 'Work Sans';
+font-style: normal; 
+ margin-bottom: 300px; 
+
+
+ }
+
+
+ul{
+    list-style: none;
+}
+.section-title{
+    text-align: right;
+    
+}
+.section-description{
+    text-align: right;
+    
+}
+.section-list{
+    text-align: right;
+   
+} */
+ 
+.section-title {
+    width: 1130px;
+    max-width: 95%;
+    margin:0 auto ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:200px ;
+
+}
+.plans{
+    margin-top: 122px;
+}
+.plans-title{
+    text-align: center;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+padding:122px 656px 50px 765px ;
+}
+.plans-container{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    padding: 50px 230px 130px 230px;
+}
+
+.plan-subtitle{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+}
+.plan-section-descriptiio{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+}
+.div{
+    width:1140px ;
+     height: 300px;
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.392) 100%), url(../images/watch.png) ;
+     
+     margin-left: 20%;
+     background-repeat: no-repeat;
+     border-radius: 8px;
+}
+h2{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+
+button{
+    color:#005FAC;
+    background-color:#FFFFFF ;
+    width: 160px;
+font-size: 20px;
+height: 64px;
+border-radius: 5px;
+border-color: #005FAC;
+margin-right: 12%;
+}
+
+.education-text{
+    text-align: center;
+    
+}
+
+.education-text-title{
+    padding-bottom:3% 2% ;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+     color: #757575;}
+
+.education-text-subtitle{
+    font-style: normal;
+    font-weight: 450;
+    font-size: 23px;
+    line-height: 28px;
+     color: black;}
+
+.education-text-description{ font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color:brown
+    
+
+}
+.contuct.footer-taitle{
+    text-align: left;
+}
+.contuct{display: flex;
+    gap: 100px;
+    background-color: rgb(206, 20, 20);
+    padding:130px 200px ;
+}
+.contuct input{
+    margin-bottom: 20px;
+}
+
+.contuct a{
+    text-decoration: none;
+}
