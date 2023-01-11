@@ -116,11 +116,11 @@ margin-left: 6%;
 
 .education-text-title{
     padding-bottom:3% 2% ;
-    font-style: normal;
-    font-weight: 500;
+   
+    font-weight:500;
     font-size: 25px;
     line-height: 30px;
-     color: #757575;}
+     color: #000474;}
 
 .education-text-subtitle{
     font-style: normal;
@@ -134,8 +134,9 @@ margin-left: 6%;
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    
+    margin-bottom: 100px;
     color:brown
+    
     
 
 }
@@ -165,9 +166,18 @@ color: aliceblue;
 
 }
 .m{
+    color: #FFFFFF;
     padding: 21px 150px 21px 21px;
     background-color: rgba(15, 15, 16, 0.845);
     border-color: #FFFFFF;
     border-radius:8px;
     font-size: 18px;
+}
+.s-button {
+    color: aliceblue;
+    padding: 25px 50px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color:#005FAC;
+    border-color: #FFFFFF;
 }
