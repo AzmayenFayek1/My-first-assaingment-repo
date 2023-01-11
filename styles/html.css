@@ -31,39 +31,10 @@ border-radius: 5px;
 border-color: #005FAC;
 margin-right: 12%;}
 
-
- 
-  .img-items{
+.img-items{
     margin-top: 20px;
 } 
-/* .fail{ 
-     max-width:1040 ;
-    margin: 0 auto;  
-    
-     font-family: 'Work Sans';
-font-style: normal; 
- margin-bottom: 300px; 
 
-
- }
-
-
-ul{
-    list-style: none;
-}
-.section-title{
-    text-align: right;
-    
-}
-.section-description{
-    text-align: right;
-    
-}
-.section-list{
-    text-align: right;
-   
-} */
- 
 .section-title {
     width: 1130px;
     max-width: 95%;
